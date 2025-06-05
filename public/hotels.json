@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "Luxury Resort",
+      "location": "Karnataka, India",
+      "price": "2500/night",
+      "images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/29/e8/7e/e2/25-m-sportpool-mit-powerswim.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/c7/8e/lobby.jpg?w=1200&h=-1&s=1",
+        "https://theluxuryeditor.com/wp-content/uploads/2023/02/192888233.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cozy Cabin",
+      "location": "Gurgaon, India",
+      "price": "4000/night",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24043648/original/c5282c79-8d6c-48f9-8d2c-68e80234e12b.jpeg?im_w=1200&im_format=avif",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24043648/original/64e2f48b-2327-40e2-a987-0fa67eee2b44.png?im_w=720&im_format=avif",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24043648/original/a1c8c433-c15f-4f7a-9f7f-b42c065ac081.png?im_w=1200&im_format=avif"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mountain Lodge",
+      "location": "Coimbatore, India",
+      "price": "1800/night",
+      "images": [
+        "https://a0.muscache.com/im/pictures/f945d9d7-92c8-4301-9f95-ec62b4ef8312.jpg",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1014452669746125987/original/8c0d1b53-4b9a-48ab-92b0-d4200ca16b40.jpeg",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Seaside Villa",
+      "location": "Stuttgart, Germany",
+      "price": "5000/night",
+      "images": [
+        "https://www.alloggia.de/images/airbnb.webp",
+        "https://a0.muscache.com/im/pictures/d6ce61b5-87e5-4f45-b54d-42f2f7ef9a55.jpg",
+        "https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Urban Loft",
+      "location": "Pittsburg, United States",
+      "price": "2200/night",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1249999443486949894/original/e8419050-7c0b-4b3d-b94d-4d12e7e1c3e9.jpeg?im_w=1440",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1249999443486949894/original/0c78bcd6-4f79-42e0-9af7-fc2fafc7a899.jpeg?im_w=1440",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1249999443486949894/original/7de87b47-93d2-4ceb-8618-0c21c1c6fbb8.jpeg?im_w=1440"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Air Lounge",
+      "location": "Manali, India",
+      "price": "2800/night",
+      "images": [
+        "https://a0.muscache.com/im/pictures/hosting/Hosting-1317774022555375942/original/b8d62fdb-1924-4b96-9474-986477006928.jpeg?im_w=1440",
+        "https://a0.muscache.com/im/pictures/hosting/Hosting-1317774022555375942/original/7ad67bec-9c4e-4c34-9a72-557b4c5668f3.jpeg?im_w=1440",
+        "https://a0.muscache.com/im/pictures/hosting/Hosting-1317774022555375942/original/c26cfba7-e53c-4305-a637-2c305ebd2b82.jpeg?im_w=1440"
+      ]
+    }
+  ]
+  

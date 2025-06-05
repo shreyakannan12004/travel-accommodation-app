@@ -1,25 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Routes, Route } from "react-router-dom";
 
-function App() {
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
+import HotelList from "./components/HotelList";
+import StickyCard from "./components/StickyCard";
+import Footer from "./components/Footer";
+import Login from "./components/Login";
+import Signup from "./components/Signup";
+import HotelDetails from "./components/HotelDetails"; // <-- new component you'll create
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+      <Navbar />
+      
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <>
+              <HotelList />
+              <StickyCard />
+              <Footer />
+            </>
+          }
+        />
+        <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/hotels/:id" element={<HotelDetails />} /> {/* New Route */}
+      </Routes>
+    </>
   );
-}
+};
 
 export default App;
